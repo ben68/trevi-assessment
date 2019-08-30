@@ -21,7 +21,7 @@ class LinearActivity : AppCompatActivity() {
                         getIntExtra(PARA_COL_NUMBER, 1)
                     )
                 }
-            showRandom(3)
+            showRandom(10)
         }
     }
 
